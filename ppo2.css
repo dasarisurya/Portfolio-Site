@@ -24,10 +24,6 @@ div.w3 {
 margin: 0 auto;
 width: 40em;
 }
-header img {
-margin-top:8px;
-margin-left:35px;
-}
 h2 {
 color: brown;
 font-family: "Quattrocento", serif;
@@ -35,5 +31,9 @@ margin: 22px;
 }
 h3 {
 color: midnightblue;
-font-family: Quattrocento", serif;
+font-family: "Quattrocento", serif;
+}
+header img {
+margin-top:8px;
+margin-left:35px;
 }
