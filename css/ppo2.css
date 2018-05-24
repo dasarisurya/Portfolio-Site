@@ -34,6 +34,7 @@ color:blue;
 div.w3 {
 margin: 0 auto;
 width: 40em;
+max-width: 100%;
 }
 .major {
 color: brown;
