@@ -1,0 +1,46 @@
+/*styling html other than mediascreens*/
+.header img {
+float: left;
+width: 100px;
+height: 100px;
+background: #555;
+} 
+.header h1 {
+position: relative;
+top: 18px;
+left: 10px;
+}
+header {
+padding:2%;
+}
+.col-md-3 {
+background-color: rgb(255, 214, 153);
+border: 1px solid blue;
+margin:40px;
+padding: 15px;
+border-radius: 10px;
+width:50%;
+text-align:left;
+}
+.page {
+border: 5px solid black;
+background-color: white;
+text-align:center;
+}
+footer {
+text-align: center;
+color:blue;
+}
+div.w3 {
+margin: 0 auto;
+width: 40em;
+}
+.major {
+color: brown;
+font-family: "Quattrocento", serif;
+margin: 22px;
+}
+.minor {
+color: midnightblue;
+font-family: "Quattrocento", serif;
+}
